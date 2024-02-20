@@ -1,15 +1,15 @@
-# Hello, I'm Francisco! 👋
+###👋 Hello, I'm Francisco! 
 
 Welcome to my profile! I'm an computer engineer and frontend developer with a strong focus on SQL development. I'm passionate about designing engaging web pages and creating efficient database models. In my free time, I enjoy training, drawing, and designing clothing.
 
-## About Me
+###👨‍💻 About Me
 
 - 💼 I'm currently working as a frontend developer and SQL developer, but i have knowledge about backend development.
 - 🌱 I'm constantly learning and exploring new technologies to enhance my skills.
 - 💡 I like combining my creativity and technical expertise to build user-friendly web interfaces and optimize database performance.
 - :speech_balloon: My spoken languages are Spanish (Native) and English (B1).
 
-## Skills
+###⚔️ Skills
 
 Here are some of the skills I've developed throughout my career:
 
@@ -31,6 +31,6 @@ Here are some of the skills I've developed throughout my career:
 <a href="mailto:fmbalza1@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
-## Interests
+### Interests
 
 In addition to my professional interests, I also have a passion for fitness training, drawing, and fashion design. I enjoy staying active and continuously learning new techniques in my hobbies. Furthermore, I have a keen interest in flying drones and creating content for my social media platforms, capturing my daily life and sharing my experiences with others.
