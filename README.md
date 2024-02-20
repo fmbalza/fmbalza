@@ -31,6 +31,8 @@ Here are some of the skills I've developed throughout my career:
 <a href="mailto:fmbalza1@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
-### Interests
+### 💡 Interests
 
 In addition to my professional interests, I also have a passion for fitness training, drawing, and fashion design. I enjoy staying active and continuously learning new techniques in my hobbies. Furthermore, I have a keen interest in flying drones and creating content for my social media platforms, capturing my daily life and sharing my experiences with others.
+
+
