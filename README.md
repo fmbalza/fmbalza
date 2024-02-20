@@ -1,6 +1,6 @@
 # Hello, I'm Francisco! 👋
 
-Welcome to my GitHub profile! I'm an experienced computer engineer and frontend developer with a strong focus on SQL development. I'm passionate about designing engaging web pages and creating efficient database models. In my free time, I enjoy training, drawing, and designing clothing.
+Welcome to my profile! I'm an computer engineer and frontend developer with a strong focus on SQL development. I'm passionate about designing engaging web pages and creating efficient database models. In my free time, I enjoy training, drawing, and designing clothing.
 
 ## About Me
 
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm an experienced computer engineer and frontend 
 
 Here are some of the skills I've developed throughout my career:
 
-- Frontend Development (HTML, CSS, JavaScript, React)
+[React]
 - SQL and Database Design
 - User Interface (UI) Design
 - Version Control (Git)
